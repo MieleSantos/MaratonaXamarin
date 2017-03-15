@@ -1,0 +1,14 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <ReferenceAssembly PathName="c:\users\miele\onedrive\documentos\visual studio 2015\projects\geolocalizacao\geolocalizacao\geolocalizacao\bin\debug\geolocalizacao.dll" HashGuid="9c6b1258-b4ee-fd0c-1af4-933f81832a96" />
+    <ReferenceAssembly PathName="c:\users\miele\onedrive\documentos\visual studio 2015\projects\geolocalizacao\packages\xam.plugin.externalmaps.3.0.10\lib\win8\plugin.externalmaps.abstractions.dll" HashGuid="118cf6ff-77b5-a7de-c672-3be1146faa3b" />
+    <ReferenceAssembly PathName="c:\users\miele\onedrive\documentos\visual studio 2015\projects\geolocalizacao\packages\xam.plugin.externalmaps.3.0.10\lib\win8\plugin.externalmaps.dll" HashGuid="aa8d5a02-9899-0deb-96ab-ed50ddf6f844" />
+    <ReferenceAssembly PathName="c:\users\miele\onedrive\documentos\visual studio 2015\projects\geolocalizacao\packages\xam.plugin.geolocator.3.0.4\lib\win8\plugin.geolocator.abstractions.dll" HashGuid="20adc366-e6fc-8a10-1342-7d33d9231080" />
+    <ReferenceAssembly PathName="c:\users\miele\onedrive\documentos\visual studio 2015\projects\geolocalizacao\packages\xam.plugin.geolocator.3.0.4\lib\win8\plugin.geolocator.dll" HashGuid="388f1122-9d57-ce2f-c8c7-dae5f9a81113" />
+    <ReferenceAssembly PathName="c:\users\miele\onedrive\documentos\visual studio 2015\projects\geolocalizacao\packages\xamarin.forms.2.3.3.180\lib\win81\xamarin.forms.core.dll" HashGuid="c782f70f-077f-7e2d-5bd4-f6b5da067f8a" />
+    <ReferenceAssembly PathName="c:\users\miele\onedrive\documentos\visual studio 2015\projects\geolocalizacao\packages\xamarin.forms.2.3.3.180\lib\win81\xamarin.forms.platform.dll" HashGuid="6b938cd4-44c0-2618-7eb6-4caa3f482076" />
+    <ReferenceAssembly PathName="c:\users\miele\onedrive\documentos\visual studio 2015\projects\geolocalizacao\packages\xamarin.forms.2.3.3.180\lib\win81\xamarin.forms.platform.winrt.dll" HashGuid="fe4acc44-27ba-0e4e-a08b-26ae7dccb678" />
+    <ReferenceAssembly PathName="c:\users\miele\onedrive\documentos\visual studio 2015\projects\geolocalizacao\packages\xamarin.forms.2.3.3.180\lib\win81\xamarin.forms.platform.winrt.tablet.dll" HashGuid="6cda1a83-1d8e-d2d4-211d-d5f3a06554ab" />
+    <ReferenceAssembly PathName="c:\users\miele\onedrive\documentos\visual studio 2015\projects\geolocalizacao\packages\xamarin.forms.2.3.3.180\lib\win81\xamarin.forms.xaml.dll" HashGuid="964969a0-caee-7d9d-82cd-9d1d01056ded" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

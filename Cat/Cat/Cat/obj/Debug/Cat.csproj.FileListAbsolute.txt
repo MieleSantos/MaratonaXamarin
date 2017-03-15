@@ -1,0 +1,4 @@
+C:\Users\miele\OneDrive\Documentos\Visual Studio 2015\Projects\Cat\Cat\Cat\obj\Debug\Cat.csproj.App.config
+C:\Users\miele\OneDrive\Documentos\Visual Studio 2015\Projects\Cat\Cat\Cat\obj\Debug\Cat.csprojResolveAssemblyReference.cache
+C:\Users\miele\OneDrive\Documentos\Visual Studio 2015\Projects\Cat\Cat\Cat\obj\Debug\Cat.MainPage.xaml.g.cs
+C:\Users\miele\OneDrive\Documentos\Visual Studio 2015\Projects\Cat\Cat\Cat\obj\Debug\Cat.App.xaml.g.cs

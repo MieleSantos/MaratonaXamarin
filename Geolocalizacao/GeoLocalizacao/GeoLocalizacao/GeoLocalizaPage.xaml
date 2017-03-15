@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GeoLocalizacao.GeoLocalizaPage"
+             Title="Geolocalizacao">
+              
+  <StackLayout VerticalOptions ="Center" Spacing="5">
+    <Label x:Name="lblGeoLocatizacao" Text=""
+           TextColor="Blue" HorizontalOptions="Center"/>
+    <Button x:Name="btnGeolocalizacao" Text="obter Geolocalizacao..."
+            TextColor="Black"
+            Clicked="btnGeolocalizacao_Clicked"/>
+    <Button x:Name="btnMostraPosicao" Text="Posição atual"
+           TextColor="Black"
+           Clicked="btnMostraPosicao_Clicked"/>
+    
+    
+  </StackLayout>
+</ContentPage>

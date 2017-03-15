@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>c:\users\miele\onedrive\documentos\visual studio 2015\Projects\GeoLocalizacao\GeoLocalizacao\GeoLocalizacao.Droid\obj\Debug\__library_projects__\Plugin.CurrentActivity\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>c:\users\miele\onedrive\documentos\visual studio 2015\Projects\GeoLocalizacao\GeoLocalizacao\GeoLocalizacao.Droid\obj\Debug\__library_projects__\Plugin.ExternalMaps\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>c:\users\miele\onedrive\documentos\visual studio 2015\Projects\GeoLocalizacao\GeoLocalizacao\GeoLocalizacao.Droid\obj\Debug\__library_projects__\Plugin.Geolocator\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>c:\users\miele\onedrive\documentos\visual studio 2015\Projects\GeoLocalizacao\GeoLocalizacao\GeoLocalizacao.Droid\obj\Debug\__library_projects__\Plugin.Permissions\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>c:\users\miele\onedrive\documentos\visual studio 2015\Projects\GeoLocalizacao\GeoLocalizacao\GeoLocalizacao.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>c:\users\miele\onedrive\documentos\visual studio 2015\Projects\GeoLocalizacao\GeoLocalizacao\GeoLocalizacao.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Plugin.CurrentActivity\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Plugin.ExternalMaps\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Plugin.Geolocator\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Plugin.Permissions\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Xamarin.Forms.Platform\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>c:\users\miele\onedrive\documentos\visual studio 2015\Projects\GeoLocalizacao\GeoLocalizacao\GeoLocalizacao.Droid\obj\Debug\__library_projects__\Plugin.CurrentActivity.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>c:\users\miele\onedrive\documentos\visual studio 2015\Projects\GeoLocalizacao\GeoLocalizacao\GeoLocalizacao.Droid\obj\Debug\__library_projects__\Plugin.ExternalMaps.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>c:\users\miele\onedrive\documentos\visual studio 2015\Projects\GeoLocalizacao\GeoLocalizacao\GeoLocalizacao.Droid\obj\Debug\__library_projects__\Plugin.Geolocator.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>c:\users\miele\onedrive\documentos\visual studio 2015\Projects\GeoLocalizacao\GeoLocalizacao\GeoLocalizacao.Droid\obj\Debug\__library_projects__\Plugin.Permissions.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>c:\users\miele\onedrive\documentos\visual studio 2015\Projects\GeoLocalizacao\GeoLocalizacao\GeoLocalizacao.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>c:\users\miele\onedrive\documentos\visual studio 2015\Projects\GeoLocalizacao\GeoLocalizacao\GeoLocalizacao.Droid\obj\Debug\__library_projects__\Xamarin.Forms.Platform.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>
